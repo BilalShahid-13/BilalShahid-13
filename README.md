@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Shahid</h1>
-<h3 align="center">Experienced Web Developer | Expert in React, Next.js, and Tailwind CSS | Dedicated to Seamless UX and Innovative Web Solutions</h3>
+<h3 align="center">Experienced Front-End Developer | Skilled in MERN Stack (MongoDB, Express, React, Node.js) | Dedicated to Seamless UX and Innovative Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalshahid-13&label=Profile%20views&color=0e75b6&style=flat" alt="bilalshahid-13" /> </p>
 
